@@ -1,2 +1,2 @@
-# ticw.github.io
+# ticw
 Practice practice :")
